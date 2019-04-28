@@ -1,4 +1,3 @@
-# Meu primeiro projeto.
-Testanto esse projeto.
+# Começo
 
-FIM DO TESTE....
+Oi, esse é meu primeiro projeto no github.
